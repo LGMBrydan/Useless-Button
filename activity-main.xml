@@ -7,7 +7,7 @@
         android:id="@+id/crashButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Crash Me"
-        android:layout_centerInParent="true" />
+        android:text="Crash App"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
